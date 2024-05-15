@@ -7,9 +7,6 @@ Atualmente o projeto segue inacabado por falta de recursos para que possamos che
 
 - [Dental-Care](#Dental-Care)
   - [Tecnologias](#tecnologias)
-  - [Inicializando](#inicializando)
-    - [Server](#server)
-    - [Cliente](#cliente)
 
 ## Tecnologias
 
